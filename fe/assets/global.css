@@ -1,0 +1,13 @@
+.head-page {
+  display: flex;
+  height: auto;
+  align-items: center;
+}
+
+.head-page button {
+  margin-left: 20px;
+}
+
+li{
+  list-style: none;
+}
